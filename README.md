@@ -1,13 +1,18 @@
-# Sample Hardhat Project
+# blockchai-fund-allocation-tracking-and-transfering
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This is a simple project that involves digitalizing the fund allocation system using blochain ensuring the transparency of the fund that is being allocated.
 
-Try running some of the following tasks:
+Tech Stack:
+Backend:
+Language-Solidity
+Framework-Hardhat
+Frontend :
+React.js,css
+Database for Authetication:
+Firebase
+Blockchain deployment:
+Alchemy
+Tools:
+Metamask
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+> > > > > > > 3d2056b57c4ae88c0fb620e459547c126d1e0470
