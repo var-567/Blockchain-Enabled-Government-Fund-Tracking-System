@@ -2,16 +2,16 @@
 
 A multiuser application leveraging Ethereum blockchain to build a Decentralized application that Allocate,Transfer and Track funds.Build for unysis innovation Constest.
 
-# Tech Stack:
-## Backend:
+## Tech Stack:
+### Backend:
 Language-Solidity 
 Framework-Hardhat
-## Frontend :
+### Frontend :
 React.js
 Ether.js
-## Database for Authetication:
+### Database for Authetication:
 Firebase
-## Blockchain deployment Tools:
+### Blockchain deployment Tools:
 Ethereum Blockchain
 Alchemy
 Metamask
