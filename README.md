@@ -4,21 +4,20 @@ A multiuser application leveraging Ethereum blockchain to build a Decentralized 
 
 ## Tech Stack:
 ### Backend:
-<li>Language-Solidity 
-Framework-Hardhat</li>
+<li>Language-Solidity</li>
+<li>Framework-Hardhat</li>
 
 ### Frontend :
-<li>
-  React.js
-Ether.js
-</li>
+<li>React.js</li>
+<li>Ether.js</li>
+
 
 ### Database for Authetication:
 Firebase
 ### Blockchain deployment Tools:
-<li>Ethereum Blockchain
-Alchemy
-Metamask</li>
+<li>Ethereum Blockchain</li>
+<li>Alchemy</li>
+<li>Metamask</li>
 
 # My Contribution
 Backend with Blockchain
